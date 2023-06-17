@@ -36,4 +36,4 @@ Example: Merge sort and quicksort.
 
 These are just a few examples of data structures and algorithms. The choice of the appropriate data structure and algorithm depends on the problem you are trying to solve, the available resources, and the desired efficiency and performance requirements.
 ## array-reverse
-[array-reverse](../array-reverse/README.md)
+[array-reverse](/array-reverse/README.md)
