@@ -1,0 +1,15 @@
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\bin\Debug\net6.0\array-reverse.exe
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\bin\Debug\net6.0\array-reverse.deps.json
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\bin\Debug\net6.0\array-reverse.runtimeconfig.json
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\bin\Debug\net6.0\array-reverse.dll
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\bin\Debug\net6.0\array-reverse.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\array-reverse.csproj.AssemblyReference.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\array-reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\array-reverse.AssemblyInfoInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\array-reverse.AssemblyInfo.cs
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\array-reverse.csproj.CoreCompileInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\array-reverse.dll
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\refint\array-reverse.dll
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\array-reverse.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\array-reverse.genruntimeconfig.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-reverse\array-reverse\obj\Debug\net6.0\ref\array-reverse.dll
