@@ -1,0 +1,15 @@
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net6.0\array-insert-shift.exe
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net6.0\array-insert-shift.deps.json
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net6.0\array-insert-shift.runtimeconfig.json
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net6.0\array-insert-shift.dll
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net6.0\array-insert-shift.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\array-insert-shift.csproj.AssemblyReference.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\array-insert-shift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\array-insert-shift.AssemblyInfoInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\array-insert-shift.AssemblyInfo.cs
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\array-insert-shift.csproj.CoreCompileInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\array-insert-shift.dll
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\refint\array-insert-shift.dll
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\array-insert-shift.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\array-insert-shift.genruntimeconfig.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net6.0\ref\array-insert-shift.dll
