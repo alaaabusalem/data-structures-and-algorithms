@@ -1,0 +1,15 @@
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\bin\Debug\net6.0\Binary-Search.exe
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\bin\Debug\net6.0\Binary-Search.deps.json
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\bin\Debug\net6.0\Binary-Search.runtimeconfig.json
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\bin\Debug\net6.0\Binary-Search.dll
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\bin\Debug\net6.0\Binary-Search.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\Binary-Search.csproj.AssemblyReference.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\Binary-Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\Binary-Search.AssemblyInfoInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\Binary-Search.AssemblyInfo.cs
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\Binary-Search.csproj.CoreCompileInputs.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\Binary-Search.dll
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\refint\Binary-Search.dll
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\Binary-Search.pdb
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\Binary-Search.genruntimeconfig.cache
+C:\Users\Stand By\source\repos\alaaabusalem\data-structures-and-algorithms\Binary-Search\Binary-Search\obj\Debug\net6.0\ref\Binary-Search.dll
